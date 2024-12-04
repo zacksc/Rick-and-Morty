@@ -35,12 +35,12 @@ Se quiser rodar o projeto na sua máquina, siga esses passos super simples:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/rick-and-morty-character-viewer.git
+   git clone https://github.com/zacksc/rick-and-morty.git
    ```
 
 2. Vá até a pasta do projeto:
    ```bash
-   cd rick-and-morty-character-viewer
+   cd rick-and-morty
    ```
 
 3. Instale as dependências:
